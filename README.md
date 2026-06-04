@@ -8,4 +8,4 @@
 赞美曾经的CV工程师们。
 
 ## 使用方法
-license_plate_recognizer.py为关键算法，test2.py为入口。调用电脑摄像头进行识别
+license_plate_recognizer.py为关键算法，test2.py为入口。调用电脑摄像头进行识别。
